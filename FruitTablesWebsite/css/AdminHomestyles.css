@@ -1,0 +1,14 @@
+﻿body {
+}
+ .main {
+     display:flex;
+     justify-content:center;
+     
+ }
+.addProductcontainer {
+    padding-top: 2%;
+    width: 40% ;
+    padding:15px;
+    border: 2px solid gray;
+    border-radius:10px
+}

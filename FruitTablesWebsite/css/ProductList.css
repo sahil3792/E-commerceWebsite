@@ -1,0 +1,22 @@
+﻿.product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px; /* Adds space below the table */
+}
+
+    .product-table th, .product-table td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid #ddd;
+        word-wrap: break-word; /* Allows text to wrap within columns */
+        max-width: 300px; /* Adjust max-width as per your layout */
+    }
+
+/* Styles for smaller images */
+.small-image {
+    width: 50px; /* Adjust the width as per your requirement */
+    height: auto; /* Maintain aspect ratio */
+}
+.container{
+    width:80%;
+}
