@@ -136,7 +136,7 @@
                                 <p class="mb-0 mt-4">$<%# Eval("TotalPrice") %></p>
                             </td>
                             <td>
-                                <asp:Button ID="btnRemove" runat="server" CssClass="btn btn-md rounded-circle bg-light border mt-4" CommandArgument='<%# Eval("CartId") %>' CommandName="Remove" Text="X" />
+                                <asp:Button ID="btnRemove" runat="server" CssClass="btn btn-md rounded-circle bg-light border mt-4" CommandArgument='<%# Eval("CartId") %>' CommandName="Remove" Text="x" />
                             </td>
                         </tr>
                     </ItemTemplate>

@@ -50,10 +50,12 @@ namespace FruitTablesWebsite
 
             decimal shipping = 30; // Flat rate shipping
             decimal total = subtotal + shipping;
+            Session["TotalAmount"] = total;
 
             // Bind subtotal and total to labels
             lblSubtotal.Text = subtotal.ToString("F2");
             lblTotal.Text = total.ToString("F2");
+
 
             // Update the UpdatePanel to reflect the changes
             UpdatePanel1.Update();
@@ -138,6 +140,7 @@ namespace FruitTablesWebsite
 
         protected void btnCheckout_Click(object sender, EventArgs e)
         {
+
             Response.Redirect("/UserCheckOut.aspx");
         //    int UserID = int.Parse(Session["User"].ToString());
         //    decimal checkout_amount = decimal.Parse(lblTotal.Text);

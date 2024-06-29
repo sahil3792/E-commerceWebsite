@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/UserMaster.Master" AutoEventWireup="true" CodeBehind="UserCheckOut.aspx.cs" Inherits="FruitTablesWebsite.UserCheckOut" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/UserMaster.Master" AutoEventWireup="true" CodeBehind="UserCheckOut.aspx.cs" Inherits="FruitTablesWebsite.UserCheckOut" EnableEventValidation="true" EnableViewState="true" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -81,7 +81,7 @@
         <div class="container-fluid py-5">
             <div class="container py-5">
                 <h1 class="mb-4">Billing details</h1>
-                <form action="#">
+                
                     <div class="row g-5">
                         <div class="col-md-12 col-lg-6 col-xl-7">
                             <div class="row">
@@ -133,6 +133,9 @@
                             <div class="form-item">
                                 <textarea name="text" class="form-control" spellcheck="false" cols="30" rows="11" placeholder="Order Notes (Optional)"></textarea>
                             </div>
+                            <div class="row g-4 text-center align-items-center justify-content-center pt-4">
+                                <asp:Button ID="btnSaveBillingDetails" runat="server" Text="Submit" CssClass="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary" OnClick="btnSaveBillingDetails_Click"/>
+    </div>
                         </div>
                         <div class="col-md-12 col-lg-6 col-xl-5">
                         <div class="table-responsive">
@@ -245,7 +248,7 @@
                 </div>
             </div>
         </div>
-                </form>
+               
             </div>
         </div>
         <!-- Checkout Page End -->
