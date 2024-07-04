@@ -28,3 +28,32 @@ $(function () {
         });
     });
 })
+
+$(function () {
+    'use strict';
+
+    /**
+     * Generating PDF from HTML using jQuery
+     */
+    $(document).on('click', '#invoice_download_btn', function () {
+        downloadInvoice();
+    });
+
+    function downloadInvoice() {
+        // Assuming 'jsPDF' and 'html2canvas' libraries are included
+        var doc = new jsPDF({
+            orientation: 'portrait',
+            format: 'a3'
+        });
+
+        // Generate content to be included in the PDF
+        var invoiceContent = document.getElementById('invoice_wrapper');
+
+        // Convert HTML to canvas then to PDF
+        html2canvas(invoiceContent).then(function (canvas) {
+            var imgData = canvas.toDataURL('image/png');
+            doc.addImage(imgData, 'PNG', 0, 0, doc.internal.pageSize.width, doc.internal.pageSize.height);
+            doc.save('invoice.pdf');
+        });
+    }
+});

@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\source\\repos\\e-commercewebsite\\fruittableswebsite\\invoicegeneration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\invoicegeneration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\source\\repos\\e-commercewebsite\\fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\user\\documents\\projects\\e-commercewebsite\\fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\source\\repos\\e-commercewebsite\\fruittableswebsite\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\source\\repos\\e-commercewebsite\\fruittableswebsite\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,54 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "FruitTablesWebsite\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\Login.aspx.cs",
-              "RelativeToolTip": "FruitTablesWebsite\\Login.aspx.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:39:19.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\Login.aspx",
-              "RelativeDocumentMoniker": "FruitTablesWebsite\\Login.aspx",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\Login.aspx",
-              "RelativeToolTip": "FruitTablesWebsite\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-29T11:38:42.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InvoiceGeneration.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx",
-              "RelativeDocumentMoniker": "FruitTablesWebsite\\InvoiceGeneration.aspx",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx",
-              "RelativeToolTip": "FruitTablesWebsite\\InvoiceGeneration.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-29T11:34:14.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "InvoiceGeneration.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
               "RelativeDocumentMoniker": "FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
               "RelativeToolTip": "FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAYwFsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:34:26.126Z",
+              "WhenOpened": "2024-06-30T05:02:01.012Z",
               "EditorCaption": ""
             }
           ]
@@ -117,10 +66,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
