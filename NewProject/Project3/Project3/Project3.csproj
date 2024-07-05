@@ -74,6 +74,7 @@
     <Content Include="HrHome.aspx" />
     <Content Include="JoiningFormHr.aspx" />
     <Content Include="js\script.js" />
+    <Content Include="LeaveApplicationForm.aspx" />
     <Content Include="LoginForm.aspx" />
     <Content Include="RaiseTicketEmp.aspx" />
     <Content Include="SetPassword.aspx" />
@@ -138,6 +139,13 @@
     </Compile>
     <Compile Include="JoiningFormHr.aspx.designer.cs">
       <DependentUpon>JoiningFormHr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LeaveApplicationForm.aspx.cs">
+      <DependentUpon>LeaveApplicationForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeaveApplicationForm.aspx.designer.cs">
+      <DependentUpon>LeaveApplicationForm.aspx</DependentUpon>
     </Compile>
     <Compile Include="LoginForm.aspx.cs">
       <DependentUpon>LoginForm.aspx</DependentUpon>
