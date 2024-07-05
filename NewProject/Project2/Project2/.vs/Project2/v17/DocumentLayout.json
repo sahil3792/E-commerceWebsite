@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\paysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\paysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\paysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\paysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\project2\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\project2\\empmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\empmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\project2\\hrmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\hrmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Web.config",
+              "RelativeDocumentMoniker": "Project2\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Web.config",
+              "RelativeToolTip": "Project2\\Web.config",
+              "ViewState": "AQIAAAIAAAAQAAAAAAAhwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T07:08:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Default.aspx",
+              "RelativeDocumentMoniker": "Project2\\Default.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Default.aspx",
+              "RelativeToolTip": "Project2\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T03:48:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayslipHR.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\PayslipHR.aspx",
+              "RelativeDocumentMoniker": "Project2\\PayslipHR.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\PayslipHR.aspx",
+              "RelativeToolTip": "Project2\\PayslipHR.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T03:49:34.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayslipHR.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\PayslipHR.aspx.cs",
+              "RelativeDocumentMoniker": "Project2\\PayslipHR.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\PayslipHR.aspx.cs",
+              "RelativeToolTip": "Project2\\PayslipHR.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwJgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:49:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Project2\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\Default.aspx.cs",
+              "RelativeToolTip": "Project2\\Default.aspx.cs",
+              "ViewState": "AQIAABkAAADAzMzMzAwnwCoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T03:49:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\HRMaster.Master.cs",
+              "RelativeDocumentMoniker": "Project2\\HRMaster.Master.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\HRMaster.Master.cs",
+              "RelativeToolTip": "Project2\\HRMaster.Master.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:58:15.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\HRMaster.Master",
+              "RelativeDocumentMoniker": "Project2\\HRMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\HRMaster.Master",
+              "RelativeToolTip": "Project2\\HRMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-30T10:56:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EMPMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\EMPMaster.Master",
+              "RelativeDocumentMoniker": "Project2\\EMPMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\EMPMaster.Master",
+              "RelativeToolTip": "Project2\\EMPMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-30T10:53:39.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EMPMaster.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\EMPMaster.Master.cs",
+              "RelativeDocumentMoniker": "Project2\\EMPMaster.Master.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\EMPMaster.Master.cs",
+              "RelativeToolTip": "Project2\\EMPMaster.Master.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:59:53.293Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

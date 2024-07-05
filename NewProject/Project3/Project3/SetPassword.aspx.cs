@@ -39,11 +39,12 @@ namespace Project3
                         SqlCommand sqlCommand = new SqlCommand(q, conn);
                         sqlCommand.ExecuteNonQuery();
                         Response.Write("<script>alert('Please Login ')</script>");
-                        
+                        Response.Redirect("LoginForm.aspx");
+
                     }
                     
                 }
-                Response.Redirect("LoginForm.aspx");
+                
             }
 
             

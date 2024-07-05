@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\user\\documents\\projects\\e-commercewebsite\\fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\fruittableswebsite\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\usermaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{936AA45F-8D30-42B3-8A46-7E36F3349FFE}|FruitTablesWebsite\\FruitTablesWebsite.csproj|solutionrelative:fruittableswebsite\\invoicegeneration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,10 +51,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\FruitTablesWebsite\\UserMaster.Master",
+              "RelativeDocumentMoniker": "FruitTablesWebsite\\UserMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\FruitTablesWebsite\\UserMaster.Master",
+              "RelativeToolTip": "FruitTablesWebsite\\UserMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T05:19:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InvoiceGeneration.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
               "RelativeDocumentMoniker": "FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
               "RelativeToolTip": "FruitTablesWebsite\\InvoiceGeneration.aspx.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAYwFsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,6 +83,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

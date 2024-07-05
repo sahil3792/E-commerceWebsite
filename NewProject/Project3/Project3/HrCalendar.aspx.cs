@@ -14,8 +14,12 @@ namespace Project3
 {
     public partial class HrCalendar : System.Web.UI.Page
     {
+        static SqlConnection conn;
         protected void Page_Load(object sender, EventArgs e)
         {
+            string cs = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString;
+            conn = new SqlConnection(cs);
+            conn.Open();
         }
 
         [WebMethod]
@@ -55,36 +59,17 @@ namespace Project3
         [WebMethod]
         public static void AddEvent(string title, string startDate, string endDate, string description)
         {
-            string cs = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString;
-            string query = "INSERT INTO Events (Title, StartDate, EndDate, Description) VALUES (@Title, @StartDate, @EndDate, @Description)";
-            using (SqlConnection con = new SqlConnection(cs))
-            {
-                using (SqlCommand cmd = new SqlCommand(query, con))
-                {
-                    cmd.Parameters.AddWithValue("@Title", title);
-                    cmd.Parameters.AddWithValue("@StartDate", Convert.ToDateTime(startDate));
-                    cmd.Parameters.AddWithValue("@EndDate", Convert.ToDateTime(endDate));
-                    cmd.Parameters.AddWithValue("@Description", description);
-                    con.Open();
-                    cmd.ExecuteNonQuery();
-                }
-            }
+            string query = $"INSERT INTO Events (Title, StartDate, EndDate, Description) VALUES ('{title}','{startDate}','{endDate}','{description}')";
+            SqlCommand cmd = new SqlCommand(query,conn);
+            cmd.ExecuteNonQuery();
         }
 
         [WebMethod]
         public static void RemoveEvent(int eventID)
         {
-            string cs = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString;
-            string query = "DELETE FROM Events WHERE EventID = @EventID";
-            using (SqlConnection con = new SqlConnection(cs))
-            {
-                using (SqlCommand cmd = new SqlCommand(query, con))
-                {
-                    cmd.Parameters.AddWithValue("@EventID", eventID);
-                    con.Open();
-                    cmd.ExecuteNonQuery();
-                }
-            }
+            string query = $"DELETE FROM Events WHERE EventID = '{eventID}'";
+            SqlCommand cmd = new SqlCommand(query,conn);
+            cmd.ExecuteNonQuery();   
         }
     }
 }
