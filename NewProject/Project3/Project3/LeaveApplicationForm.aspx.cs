@@ -11,6 +11,7 @@ namespace Project3
 {
     public partial class LeaveApplicationForm : System.Web.UI.Page
     {
+        
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -18,17 +19,17 @@ namespace Project3
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            // Read the values from the form controls
+       
             int employeeID = int.Parse(Session["User"].ToString());
             string leaveType = DropDownList1.SelectedValue;
             string startDate = txtStartDate.Text;
             string endDate = txtEndDate.Text;
             string reason = TextBox2.Text;
 
-            // Save the leave details to the database
+      
             SaveLeaveDetails(employeeID, leaveType, startDate, endDate, reason);
 
-            // Display a message or redirect to another page
+        
             Response.Write("<script>alert('Leave application submitted successfully.')</script>");
         }
 
@@ -42,9 +43,9 @@ namespace Project3
                 string updateLeaveQuery = "";
                 string updateTotalLeavesQuery = "";
 
-                int leaveDays = CalculateLeaveDays(startDate, endDate); // Calculate leave days excluding weekends
+                int leaveDays = CalculateLeaveDays(startDate, endDate); 
                 Response.Write($"<script>alert('{leaveDays}')</script>");
-                // Determine which leave type to update and update query
+                
                 switch (leaveType)
                 {
                     case "Paid Leave":
@@ -57,14 +58,14 @@ namespace Project3
                         updateLeaveQuery = "UPDATE Users SET CasualLeave = CasualLeave - @LeaveDays WHERE UserID = @EmployeeID";
                         break;
                     default:
-                        // Handle default case or error scenario
+                        
                         break;
                 }
 
-                // Update TotalLeaves query
+                
                 updateTotalLeavesQuery = "UPDATE Users SET TotalLeaves = PaidLeave + SickLeave + CasualLeave WHERE UserID = @EmployeeID";
 
-                // Execute the insert query for LeaveApplications
+                
                 using (SqlCommand cmdInsert = new SqlCommand(insertQuery, conn))
                 {
                     cmdInsert.Parameters.AddWithValue("@EmployeeID", employeeID);
@@ -77,7 +78,7 @@ namespace Project3
                     cmdInsert.ExecuteNonQuery();
                 }
 
-                // Execute the update query for the specific leave type in Users table
+                
                 if (!string.IsNullOrEmpty(updateLeaveQuery))
                 {
                     using (SqlCommand cmdUpdateLeave = new SqlCommand(updateLeaveQuery, conn))
@@ -88,7 +89,7 @@ namespace Project3
                     }
                 }
 
-                // Execute the update query for TotalLeaves in Users table
+                
                 if (!string.IsNullOrEmpty(updateTotalLeavesQuery))
                 {
                     using (SqlCommand cmdUpdateTotalLeaves = new SqlCommand(updateTotalLeavesQuery, conn))

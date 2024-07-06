@@ -51,13 +51,13 @@ namespace Project3
                 }
             }
 
-            // Optionally, display a success message or redirect to another page
+       
             Response.Write("<script>alert('Record inserted successfully');</script>");
             SendEmail(email, userId, name);
         }
         private void SendEmail(string toEmail, int userId, string userName)
         {
-            string fromEmail = "sahilharshalv@gmail.com"; // Replace with your email
+            string fromEmail = "sahilharshalv@gmail.com"; 
             string subject = "Welcome to the Company!";
             string body = $"<p>Dear {userName},</p><p>Welcome to the company! Your User ID is: {userId}</p><p>Login to Portal using {userId} and {toEmail}</p><p>Best Regards,<br>HR Team</p>";
 
@@ -66,10 +66,10 @@ namespace Project3
             mail.To.Add(toEmail);
             mail.Subject = subject;
             mail.Body = body;
-            mail.IsBodyHtml = true; // Set to true if the email body is in HTML
+            mail.IsBodyHtml = true; 
 
-            SmtpClient smtpClient = new SmtpClient("smtp.gmail.com"); // Replace with your SMTP server address
-            smtpClient.Port = 587; // Replace with your SMTP server port
+            SmtpClient smtpClient = new SmtpClient("smtp.gmail.com"); 
+            smtpClient.Port = 587; 
             smtpClient.Credentials = new System.Net.NetworkCredential("sahilharshalv@gmail.com", "gkrittwiezprqrbg"); // Replace with your email credentials
             smtpClient.EnableSsl = true;
 

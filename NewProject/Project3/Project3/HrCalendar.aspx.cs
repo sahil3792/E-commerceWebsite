@@ -49,7 +49,7 @@ namespace Project3
             }
             if (eventsJson.Length > 1)
             {
-                eventsJson.Length--; // Remove the trailing comma
+                eventsJson.Length--;
             }
             eventsJson.Append("]");
 

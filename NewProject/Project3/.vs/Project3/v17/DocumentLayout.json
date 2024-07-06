@@ -3,104 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewticketemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewticketemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\empcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\empcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\leaveapplicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\leaveapplicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\emphome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\emphome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\loading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\styles\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\styles\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\generatepaysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\generatepaysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\generatepaysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\generatepaysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\leaveapplicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\leaveapplicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\joiningformhr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\joiningformhr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\setpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\setpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\joiningformhr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\joiningformhr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewsolutionemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewsolutionemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\empcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empcalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\viewticketemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewticketemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\generatepaysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\generatepaysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\generatepaysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\generatepaysliphr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\leaveapplicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\leaveapplicationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\leaveapplicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\leaveapplicationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\joiningformhr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\joiningformhr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\joiningformhr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\joiningformhr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\hrhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\hrhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\hrhome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\emphome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\emphome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\emphome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\emphome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\empcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\empcalendar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project3\\project3\\leaveapplicationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\leaveapplicationform.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewsolutionemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewsolutionemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\raiseticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\raiseticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\loading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loading.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\styles\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\styles\\loading.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\setpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\setpassword.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\viewsolutionemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\viewsolutionemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\raiseticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|solutionrelative:project3\\raiseticketemp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF6BEF8E-A8F4-42A1-848A-290CF3FD82DD}|Project3\\Project3.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\project3\\raiseticketemp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -122,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -154,72 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HRMaster.Master",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HRMaster.Master",
-              "RelativeDocumentMoniker": "Project3\\HRMaster.Master",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HRMaster.Master",
-              "RelativeToolTip": "Project3\\HRMaster.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-02T19:55:39.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmpHome.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx",
-              "RelativeDocumentMoniker": "Project3\\EmpHome.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx",
-              "RelativeToolTip": "Project3\\EmpHome.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-02T19:25:39.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Loading.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Loading.aspx",
-              "RelativeDocumentMoniker": "Project3\\Loading.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Loading.aspx",
-              "RelativeToolTip": "Project3\\Loading.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-06T05:23:13.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Loading.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Styles\\Loading.css",
-              "RelativeDocumentMoniker": "Project3\\Styles\\Loading.css",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Styles\\Loading.css",
-              "RelativeToolTip": "Project3\\Styles\\Loading.css",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAwDoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-06T05:25:06.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LeaveApplicationForm.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx",
-              "RelativeDocumentMoniker": "Project3\\LeaveApplicationForm.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx",
-              "RelativeToolTip": "Project3\\LeaveApplicationForm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-05T08:53:01.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "HrCalendar.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrCalendar.aspx",
               "RelativeDocumentMoniker": "Project3\\HrCalendar.aspx",
@@ -232,85 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmpMaster.Master",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpMaster.Master",
-              "RelativeDocumentMoniker": "Project3\\EmpMaster.Master",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpMaster.Master",
-              "RelativeToolTip": "Project3\\EmpMaster.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-02T19:18:05.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewTicketEmp.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx",
-              "RelativeDocumentMoniker": "Project3\\ViewTicketEmp.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx",
-              "RelativeToolTip": "Project3\\ViewTicketEmp.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-04T18:24:50.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmpCalendar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\EmpCalendar.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx.cs",
-              "RelativeToolTip": "Project3\\EmpCalendar.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T05:50:02.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GeneratePayslipHR.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\GeneratePayslipHR.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\GeneratePayslipHR.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\GeneratePayslipHR.aspx.cs",
-              "RelativeToolTip": "Project3\\GeneratePayslipHR.aspx.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAASwC0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:27:53.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmpCalendar.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx",
-              "RelativeDocumentMoniker": "Project3\\EmpCalendar.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx",
-              "RelativeToolTip": "Project3\\EmpCalendar.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-03T18:41:24.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "LeaveApplicationForm.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\LeaveApplicationForm.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.cs",
-              "RelativeToolTip": "Project3\\LeaveApplicationForm.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T09:16:35.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "GeneratePayslipHR.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\GeneratePayslipHR.aspx",
               "RelativeDocumentMoniker": "Project3\\GeneratePayslipHR.aspx",
@@ -323,72 +192,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginForm.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx",
-              "RelativeDocumentMoniker": "Project3\\LoginForm.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx",
-              "RelativeToolTip": "Project3\\LoginForm.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-04T16:31:40.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginForm.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\LoginForm.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx.cs",
-              "RelativeToolTip": "Project3\\LoginForm.aspx.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA9wBUAAAAIAAAA",
+              "DocumentIndex": 5,
+              "Title": "GeneratePayslipHR.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\GeneratePayslipHR.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\GeneratePayslipHR.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\GeneratePayslipHR.aspx.cs",
+              "RelativeToolTip": "Project3\\GeneratePayslipHR.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:34:38.865Z",
+              "WhenOpened": "2024-07-04T17:27:53.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HrHome.aspx",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx",
-              "RelativeDocumentMoniker": "Project3\\HrHome.aspx",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx",
-              "RelativeToolTip": "Project3\\HrHome.aspx",
+              "DocumentIndex": 3,
+              "Title": "ViewTicketEmp.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx",
+              "RelativeDocumentMoniker": "Project3\\ViewTicketEmp.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx",
+              "RelativeToolTip": "Project3\\ViewTicketEmp.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-02T19:57:19.265Z",
+              "WhenOpened": "2024-07-04T18:24:50.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "ViewTicketEmp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\ViewTicketEmp.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx.cs",
+              "RelativeToolTip": "Project3\\ViewTicketEmp.aspx.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwB4AAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:30:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpCalendar.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx",
+              "RelativeDocumentMoniker": "Project3\\EmpCalendar.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx",
+              "RelativeToolTip": "Project3\\EmpCalendar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-03T18:41:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HrCalendar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrCalendar.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\HrCalendar.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrCalendar.aspx.cs",
+              "RelativeToolTip": "Project3\\HrCalendar.aspx.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:51:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Web.config",
+              "RelativeDocumentMoniker": "Project3\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Web.config",
+              "RelativeToolTip": "Project3\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T18:22:32.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveApplicationForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\LeaveApplicationForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.cs",
+              "RelativeToolTip": "Project3\\LeaveApplicationForm.aspx.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:16:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveApplicationForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx",
+              "RelativeDocumentMoniker": "Project3\\LeaveApplicationForm.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx",
+              "RelativeToolTip": "Project3\\LeaveApplicationForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-05T08:53:01.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "JoiningFormHr.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\JoiningFormHr.aspx.cs",
               "RelativeDocumentMoniker": "Project3\\JoiningFormHr.aspx.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\JoiningFormHr.aspx.cs",
               "RelativeToolTip": "Project3\\JoiningFormHr.aspx.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAD4vzgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-04T17:18:55.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SetPassword.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\SetPassword.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\SetPassword.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\SetPassword.aspx.cs",
-              "RelativeToolTip": "Project3\\SetPassword.aspx.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T17:39:47.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "JoiningFormHr.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\JoiningFormHr.aspx",
               "RelativeDocumentMoniker": "Project3\\JoiningFormHr.aspx",
@@ -401,46 +322,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HRMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HRMaster.Master",
+              "RelativeDocumentMoniker": "Project3\\HRMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HRMaster.Master",
+              "RelativeToolTip": "Project3\\HRMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T19:55:39.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HrHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\HrHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx.cs",
+              "RelativeToolTip": "Project3\\HrHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:35:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HrHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx",
+              "RelativeDocumentMoniker": "Project3\\HrHome.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrHome.aspx",
+              "RelativeToolTip": "Project3\\HrHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T19:57:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmpMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpMaster.Master",
+              "RelativeDocumentMoniker": "Project3\\EmpMaster.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpMaster.Master",
+              "RelativeToolTip": "Project3\\EmpMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T19:18:05.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmpHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\EmpHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx.cs",
+              "RelativeToolTip": "Project3\\EmpHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:34:42.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmpCalendar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\EmpCalendar.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpCalendar.aspx.cs",
+              "RelativeToolTip": "Project3\\EmpCalendar.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:50:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Web.config",
-              "RelativeDocumentMoniker": "Project3\\Web.config",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Web.config",
-              "RelativeToolTip": "Project3\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-03T18:22:32.285Z",
+              "Title": "LeaveApplicationForm.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Project3\\LeaveApplicationForm.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LeaveApplicationForm.aspx.designer.cs",
+              "RelativeToolTip": "Project3\\LeaveApplicationForm.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T09:33:18.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "ViewSolutionEmp.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewSolutionEmp.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\ViewSolutionEmp.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewSolutionEmp.aspx.cs",
-              "RelativeToolTip": "Project3\\ViewSolutionEmp.aspx.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAADwvzAAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:45:24.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "HrCalendar.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrCalendar.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\HrCalendar.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\HrCalendar.aspx.cs",
-              "RelativeToolTip": "Project3\\HrCalendar.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T13:51:08.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "ViewSolutionEmp.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewSolutionEmp.aspx",
               "RelativeDocumentMoniker": "Project3\\ViewSolutionEmp.aspx",
@@ -453,20 +426,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ViewTicketEmp.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx.cs",
-              "RelativeDocumentMoniker": "Project3\\ViewTicketEmp.aspx.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewTicketEmp.aspx.cs",
-              "RelativeToolTip": "Project3\\ViewTicketEmp.aspx.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAUwEwAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T19:30:13.495Z",
+              "DocumentIndex": 17,
+              "Title": "EmpHome.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx",
+              "RelativeDocumentMoniker": "Project3\\EmpHome.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\EmpHome.aspx",
+              "RelativeToolTip": "Project3\\EmpHome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-02T19:25:39.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "Loading.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Styles\\Loading.css",
+              "RelativeDocumentMoniker": "Project3\\Styles\\Loading.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Styles\\Loading.css",
+              "RelativeToolTip": "Project3\\Styles\\Loading.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-06T05:25:06.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "Project3\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx",
+              "RelativeToolTip": "Project3\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-04T16:31:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Loading.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Loading.aspx",
+              "RelativeDocumentMoniker": "Project3\\Loading.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Loading.aspx",
+              "RelativeToolTip": "Project3\\Loading.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-06T05:23:13.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\LoginForm.aspx.cs",
+              "RelativeToolTip": "Project3\\LoginForm.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA9wBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:34:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SetPassword.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\SetPassword.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\SetPassword.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\SetPassword.aspx.cs",
+              "RelativeToolTip": "Project3\\SetPassword.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:39:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewSolutionEmp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewSolutionEmp.aspx.cs",
+              "RelativeDocumentMoniker": "Project3\\ViewSolutionEmp.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\ViewSolutionEmp.aspx.cs",
+              "RelativeToolTip": "Project3\\ViewSolutionEmp.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzAAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:45:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "RaiseTicketEmp.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\RaiseTicketEmp.aspx.cs",
               "RelativeDocumentMoniker": "Project3\\RaiseTicketEmp.aspx.cs",
@@ -479,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "RaiseTicketEmp.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\RaiseTicketEmp.aspx",
               "RelativeDocumentMoniker": "Project3\\RaiseTicketEmp.aspx",
@@ -492,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "SetPassword.aspx",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\SetPassword.aspx",
               "RelativeDocumentMoniker": "Project3\\SetPassword.aspx",
@@ -505,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project3\\Project3\\Styles\\style.css",
               "RelativeDocumentMoniker": "Project3\\Styles\\style.css",

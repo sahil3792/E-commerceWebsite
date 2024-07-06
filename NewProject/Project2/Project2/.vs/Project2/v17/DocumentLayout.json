@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\paysliphr.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\empapplyleave.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\project2\\empapplyleave.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\empapplyleave.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\e-commercewebsite\\newproject\\project2\\project2\\project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{2999DB57-4004-4454-B7BC-FEFE5A4DECF2}|Project2\\Project2.csproj|solutionrelative:project2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -143,6 +143,7 @@
               "RelativeDocumentMoniker": "Project2\\HRMaster.Master",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\HRMaster.Master",
               "RelativeToolTip": "Project2\\HRMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-30T10:56:54.256Z",
               "EditorCaption": ""
@@ -155,6 +156,7 @@
               "RelativeDocumentMoniker": "Project2\\EMPMaster.Master",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\E-commerceWebsite\\NewProject\\Project2\\Project2\\Project2\\EMPMaster.Master",
               "RelativeToolTip": "Project2\\EMPMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-30T10:53:39.922Z",
               "EditorCaption": ""

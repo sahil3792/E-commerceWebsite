@@ -23,7 +23,7 @@
                 <asp:TextBox ID="TextBox2" runat="server" class="form-control" placeholder="Password"></asp:TextBox>
             </div>
             <div class="form-check">
-                <asp:Button ID="Button2" runat="server" Text="New Employee" Style="border: none; background-color: none; color: blue; text-decoration: underline; justify-content: left" OnClick="Button2_Click" />
+                <asp:Button ID="Button2" runat="server" Text="New Employee" Style="border: none; background-color: none; color: blue; text-decoration: underline" OnClick="Button2_Click" />
             </div>
             <asp:Button ID="Button1" runat="server" Text="Login" class="btn btn-primary" OnClick="Button1_Click" />
         </div>

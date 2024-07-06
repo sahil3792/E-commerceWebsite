@@ -51,7 +51,7 @@ namespace Project3
             string employeeName = "";
             
 
-            // Fetch the employee details from the database
+            
             string connectionString = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString;
             string query = @"
                 SELECT Name, Salary, PaidLeave, SickLeave, CasualLeave 
@@ -80,7 +80,7 @@ namespace Project3
                 }
             }
             
-            // Determine total leave days excluding weekends
+            
             int workingDays = GetWorkingDaysInMonth();
             if (paidLeaves<0)
             {
@@ -96,7 +96,7 @@ namespace Project3
             }
             Response.Write($"<script>alert('this is subtracted by sick leave and casual leave {workingDays}')</script>");
 
-            // Calculate total salary based on leave type
+            
             decimal totalSalary = 0;
             totalSalary = workingDays * dailySalary;
             //if (totalLeaves <= paidLeaves)
