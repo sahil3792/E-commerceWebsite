@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
-    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CssClass="table table-hover">
+    <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" CssClass="table table-hover" OnRowCommand="gvEmployees_RowCommand">
         <Columns>
             <asp:BoundField DataField="UserId" HeaderText="User ID" />
             <asp:BoundField DataField="Name" HeaderText="Name" />
@@ -18,6 +18,7 @@
 </asp:TemplateField>
         </Columns>
     </asp:GridView>
+    <asp:Label ID="lblMessage" runat="server" Text=""></asp:Label>
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 </asp:Content>

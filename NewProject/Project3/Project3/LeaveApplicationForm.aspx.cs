@@ -19,10 +19,10 @@ namespace Project3
         protected void Button1_Click(object sender, EventArgs e)
         {
             // Read the values from the form controls
-            int employeeID = int.Parse(Session["UserID"].ToString());
+            int employeeID = int.Parse(Session["User"].ToString());
             string leaveType = DropDownList1.SelectedValue;
             string startDate = txtStartDate.Text;
-            string endDate = TextBox1.Text;
+            string endDate = txtEndDate.Text;
             string reason = TextBox2.Text;
 
             // Save the leave details to the database
@@ -43,7 +43,7 @@ namespace Project3
                 string updateTotalLeavesQuery = "";
 
                 int leaveDays = CalculateLeaveDays(startDate, endDate); // Calculate leave days excluding weekends
-
+                Response.Write($"<script>alert('{leaveDays}')</script>");
                 // Determine which leave type to update and update query
                 switch (leaveType)
                 {

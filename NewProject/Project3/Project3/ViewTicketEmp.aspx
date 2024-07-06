@@ -34,6 +34,7 @@
                 </div>
                 <div class="modal-body">
                     <asp:TextBox ID="SolutionTextBox" runat="server" TextMode="MultiLine" CssClass="form-control" Rows="5"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="RequiredFieldValidator" ControlToValidate="SolutionTextBox"></asp:RequiredFieldValidator>
                 </div>
                 <div class="modal-footer">
                     <asp:Button ID="SubmitSolutionButton" runat="server" Text="Submit" CssClass="btn btn-primary" OnClick="SubmitSolutionButton_Click" />
